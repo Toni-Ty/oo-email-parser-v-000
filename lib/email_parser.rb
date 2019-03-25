@@ -15,5 +15,8 @@ end
 
 def parse
   emails.split(/, | /).uniq
+  emails
   end
 end
+
+
