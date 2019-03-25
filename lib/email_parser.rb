@@ -18,5 +18,3 @@ def parse
   emails
   end
 end
-
-
